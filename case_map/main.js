@@ -38,7 +38,7 @@ var appView = new ol.View({
 
 var dataLayer = new ol.layer.Vector({
   source:new ol.source.Vector({
-    url:'../data.json',
+    url:'data.json',
     format:new ol.format.GeoJSON()
   })
 });

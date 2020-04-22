@@ -269,6 +269,207 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#80eb74",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.22888183593751,
+              23.40276490540795
+            ],
+            [
+              120.2838134765625,
+              23.40276490540795
+            ],
+            [
+              120.2838134765625,
+              23.438049100368612
+            ],
+            [
+              120.22888183593751,
+              23.438049100368612
+            ],
+            [
+              120.22888183593751,
+              23.40276490540795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fbb0ee",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#f731c6",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.48980712890624,
+              23.054461926693815
+            ],
+            [
+              120.61889648437501,
+              23.054461926693815
+            ],
+            [
+              120.61889648437501,
+              23.183288403039526
+            ],
+            [
+              120.48980712890624,
+              23.183288403039526
+            ],
+            [
+              120.48980712890624,
+              23.054461926693815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#509dad",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.40740966796875,
+          23.354864168418864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ffff",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2838134765625,
+          22.991266590272033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fc2601",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36895751953126,
+          22.7255238110894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#42bb7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31814575195311,
+          23.169085671381055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15506744384764,
+          23.189284659359608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8080ff",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31333923339844,
+          23.32081892065709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8080ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#2e7c6c",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.23574829101562,
+              23.261534167651835
+            ],
+            [
+              120.32501220703125,
+              23.261534167651835
+            ],
+            [
+              120.32501220703125,
+              23.32081892065709
+            ],
+            [
+              120.23574829101562,
+              23.32081892065709
+            ],
+            [
+              120.23574829101562,
+              23.261534167651835
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
